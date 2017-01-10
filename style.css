@@ -38,3 +38,8 @@
         display: block;
       }
     }
+    #profile {
+      height: 400px;
+      width: 400;
+    }
+    
